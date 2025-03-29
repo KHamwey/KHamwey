@@ -1,7 +1,7 @@
 ## Hi there 👋
 <i class="fa fa-hand-spock-o" aria-hidden="true"></i>
 
-I'm using HTML, CSS, and JavaScript to make websites dance. In addtion to supporting WordPress Websites at an Enterprise Level.
+I'm using Some PHP, HTML, CSS, and JavaScript to make websites dance. In addtion to supporting WordPress Websites at an Enterprise Level.
 
 **I love working with**
 
